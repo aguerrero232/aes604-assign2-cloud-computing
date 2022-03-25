@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "cs4843Key"
+  },
+  {
+    "ParameterKey": "myVPC",
+    "ParameterValue": "vpc-01bebb6a30e245386"
+  },
+  {
+    "ParameterKey": "PublicSubnet1",
+    "ParameterValue": "subnet-0a6179ef01dfcba6c"
+  },
+  {
+    "ParameterKey": "PublicSubnet2",
+    "ParameterValue": "subnet-0d904264f35f8aaa1"
+  },
+  {
+    "ParameterKey": "PrivateSubnet1",
+    "ParameterValue": "subnet-023499b3886b94137"
+  },
+  {
+    "ParameterKey": "PrivateSubnet2",
+    "ParameterValue": "subnet-0ccace135177fb189"
+  },
+  {
+    "ParameterKey": "AMItoUse",
+    "ParameterValue": "ami-09a7b6c968ff10282"
+  }
+]
